@@ -1,0 +1,12 @@
+.cardComponent {
+  height: 100%;
+  width: 23%;
+  margin: 0.5%;
+  min-width: 200px;
+  min-height: 160px;
+}
+.image {
+  background-size: cover;
+  width: 100%;
+  height: 10.5vw;
+}

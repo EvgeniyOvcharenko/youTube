@@ -1,0 +1,9 @@
+.main {
+  flex: 1;
+  height: max-content;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: red;
+  padding: 14px 16px 0 80px;
+  
+}

@@ -1,0 +1,10 @@
+.leftNavContainer {
+  padding: 12px 0;
+  font-size: 14px;
+}
+.line {
+  margin: 12px 18px 12px 0;
+  height: 1px;
+  background-color: rgba(0, 0, 0, 0.1);
+  border: none;
+}

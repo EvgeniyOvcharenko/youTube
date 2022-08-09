@@ -1,0 +1,21 @@
+.itemContainer {
+  height: 40px;
+  width: 224px;
+  display: flex;
+  align-items: center;
+  border: none;
+  background-color: #fff;
+  margin-right: 16px;
+}
+.topNavText {
+  letter-spacing: 1px;
+}
+.itemContainer:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.itemContainer:focus {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.itemContainer:hover > .icon {
+  color: firebrick;
+}

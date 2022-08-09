@@ -1,0 +1,10 @@
+.centralNav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-left: 75px;
+  padding-right: 54px;
+  border: solid rgba(0, 0, 0, 0.1);
+  border-width: 1px 0;
+  max-width: 100%;
+}
